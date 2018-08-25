@@ -83,7 +83,7 @@ class Passengers:
                     tmp_columns = df_sheet.columns.tolist()
                     df_line = df_sheet['総数']
                     df_sheet = pd.concat([df_sheet, df_line], axis=1)
-                    tmp_columns.append(line_str)
+                    tmp_columns.append(line_str+'総数')
                     df_sheet.columns = tmp_columns
 
                 # シートを結合
