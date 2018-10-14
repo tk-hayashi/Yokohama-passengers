@@ -7,7 +7,7 @@ http://www.city.yokohama.lg.jp/ex/stat/toukeisho/new/index2.html#13
 
 * passengers.py	
   * escelファイルを読み込むためのclassを定義
-* htmlディレクトリ
+* resultディレクトリ
   * 実行結果例
 * check_read_csv.ipynb
   * passengers.pyの実行確認
