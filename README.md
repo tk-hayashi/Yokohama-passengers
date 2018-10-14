@@ -6,7 +6,7 @@ time-series analysis of the number of passengers at Yokohama city
 http://www.city.yokohama.lg.jp/ex/stat/toukeisho/new/index2.html#13
 
 * passengers.py	
-  * escelファイルを読み込むためのclassを定義
+  * excelファイルを読み込むためのclassを定義
 * resultディレクトリ
   * 実行結果例
 * check_read_csv.ipynb
